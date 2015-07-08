@@ -1,8 +1,8 @@
 //
 //  NSString+ITTAdditions.h
 //
-//  Created by Jack on 11-9-19.
-//  Copyright (c) 2011年 iMobile. All rights reserved.
+//  Created by Sword on 11-9-19.
+//  Copyright (c) 2011年 Sword. All rights reserved.
 //
 
 
@@ -13,9 +13,7 @@
 
 - (BOOL)isStartWithString:(NSString*)start;
 - (BOOL)isEndWithString:(NSString*)end;
-
-- (NSString*)md5;
-- (NSString*)encodeUrl;
+- (BOOL)canConvertToNumber;
 
 @end
 

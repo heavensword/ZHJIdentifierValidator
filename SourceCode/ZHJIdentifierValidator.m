@@ -1,8 +1,8 @@
 //
 //  MCCPIdentifierValidator.m
-//  HaiHang
+//  Sword
 //
-//  Created by zhou huajian on 11-1-25.
+//  Created by Sword on 11-1-25.
 //  Copyright 2011 Sword. All rights reserved.
 //
 
